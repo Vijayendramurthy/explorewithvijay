@@ -18,7 +18,7 @@ export const HeroSection = () => {
 
   // Function to open the resume PDF
   const openResume = () => {
-    const pdfUrl = '/assets/vijayfinalyearresume.pdf'; // Correct path for public assets
+    const pdfUrl = '/assets/vijayendra_finalyearresume.pdf'; // Correct path for public assets
     window.open(pdfUrl, '_blank');
   };
 
